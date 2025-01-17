@@ -1,0 +1,19 @@
+# Note: TOML keys are case sensitive, see https://toml.io
+
+server_url = "http://localhost:9020/rgx-server"
+show_progress = true
+
+[linux]
+packages_dir = "~/rgx-packages"
+download_dir = "/tmp/rgx-downloads"
+rcfile_dir = "~"
+
+[windows]
+packages_dir = 'C:\tools\rgx-packages'
+download_dir = 'C:\Temp\rgx-downloads'
+rcfile_dir = "~"
+
+[macos]
+packages_dir = '~/tools/rgx-packages'
+download_dir = '/tmp/rgx-downloads'
+rcfile_dir = '~'
