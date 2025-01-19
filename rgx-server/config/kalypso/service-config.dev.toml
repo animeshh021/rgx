@@ -1,0 +1,6 @@
+[app]
+port = 9020
+data_dir = "{HOME}/workdir/data/rgx-server"
+cache_period_hours = 10
+
+[db]

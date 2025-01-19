@@ -1,0 +1,10 @@
+{
+    "golang": {
+        "description": "The Go Programming Language",
+        "website": "https://go.dev"
+    },
+    "gcloud": {
+        "description": "Google Cloud SDK",
+        "website": "https://cloud.google.com/sdk"
+    }
+}
